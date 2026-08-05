@@ -3,7 +3,7 @@
 A responsive, client-side web application built with Vue.js to quickly generate secure, customizable passwords.
 
 ## 🚀 Live Demo
-[View Live Project](https://your-project.vercel.app)
+[View Live Project](https://smart-z-passgen.netlify.app)
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, SCSS, JavaScript (ES6+)
